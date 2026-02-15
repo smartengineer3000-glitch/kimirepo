@@ -1,6 +1,6 @@
 # 🕌 Islamic Inheritance Calculator Pro v6.0
 
-![Islamic Finance App Design](https://kimi-web-img.moonshot.cn/img/cdn.dribbble.com/875aa963bd29c0741b9b23ba9df1a4e09d2dcaed.png)
+
 
 ## 🚀 The Most Advanced Islamic Inheritance Calculator
 
